@@ -1,0 +1,158 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\CDROM
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+Frodo.jpg=D:\Graf2Tex\Frodo.jpg
+Frodo2.jpg=D:\Graf2Tex\Frodo2.jpg
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\GBitmap.dll=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+frodo.jpg=
+frodo2.jpg=
+mikel.jpg=
+mikel2.jpg=
+trancos.jpg=
+trancos2.jpg=
+d:\graf2tex\index.htm=
+d:\graf2tex\leeme.txt=
+D:\Graf2Tex\Demonio.jpg=
+D:\Graf2Tex\typusorbisterrarum3000.jpg=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM\GBitmap.dll=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Graf2Tex\Graf2Tex.exe=Yes
+D:\Graf2Tex\Frodo.jpg=Yes
+D:\Graf2Tex\Frodo2.jpg=Yes
+D:\Graf2Tex\Mikel.jpg=Yes
+D:\Graf2Tex\Mikel2.jpg=Yes
+D:\Graf2Tex\trancos.jpg=Yes
+D:\Graf2Tex\trancos2.jpg=Yes
+D:\Graf2Tex\index.htm=Yes
+D:\Graf2Tex\LEEME.txt=Yes
+D:\Graf2Tex\Demonio.jpg=Yes
+D:\Graf2Tex\typusorbisterrarum3000.jpg=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Temp\Graf2Tex\Graf2Tex.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\GBitmap.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Temp\Graf2Tex\Frodo.jpg=$(AppPath)
+C:\Temp\Graf2Tex\Frodo2.jpg=$(AppPath)
+C:\Temp\Graf2Tex\Mikel.jpg=$(AppPath)
+C:\Temp\Graf2Tex\Mikel2.jpg=$(AppPath)
+C:\Temp\Graf2Tex\trancos.jpg=$(AppPath)
+C:\Temp\Graf2Tex\trancos2.jpg=$(AppPath)
+D:\Graf2Tex\Graf2Tex.exe=$(AppPath)
+D:\Graf2Tex\Frodo.jpg=$(AppPath)
+D:\Graf2Tex\Frodo2.jpg=$(AppPath)
+D:\Graf2Tex\Mikel.jpg=$(AppPath)
+D:\Graf2Tex\Mikel2.jpg=$(AppPath)
+D:\Graf2Tex\trancos.jpg=$(AppPath)
+D:\Graf2Tex\trancos2.jpg=$(AppPath)
+D:\Graf2Tex\index.htm=$(AppPath)
+D:\Graf2Tex\LEEME.txt=$(AppPath)
+D:\Graf2Tex\Demonio.jpg=$(AppPath)
+D:\Graf2Tex\typusorbisterrarum3000.jpg=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Temp\Graf2Tex\Graf2Tex.exe=No
+C:\Temp\Graf2Tex\Frodo.jpg=No
+C:\Temp\Graf2Tex\Frodo2.jpg=No
+C:\Temp\Graf2Tex\Mikel.jpg=No
+C:\Temp\Graf2Tex\Mikel2.jpg=No
+C:\Temp\Graf2Tex\trancos.jpg=No
+C:\Temp\Graf2Tex\trancos2.jpg=No
+D:\Graf2Tex\Graf2Tex.exe=No
+D:\Graf2Tex\Frodo.jpg=No
+D:\Graf2Tex\Frodo2.jpg=No
+D:\Graf2Tex\Mikel.jpg=No
+D:\Graf2Tex\Mikel2.jpg=No
+D:\Graf2Tex\trancos.jpg=No
+D:\Graf2Tex\trancos2.jpg=No
+D:\Graf2Tex\index.htm=No
+D:\Graf2Tex\LEEME.txt=No
+D:\Graf2Tex\Demonio.jpg=No
+D:\Graf2Tex\typusorbisterrarum3000.jpg=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Conversión de Gráficos a Texto 0.9b
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Conversión de Gráficos a Texto
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Conversión de Gráficos a Texto]
+Icon1=Graf2Tex.exe
+Title1=Conversión de Gráficos a Texto
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\CDROM
+ProjectFolder=D:\Graf2Tex
+ServerSideCab=
+File1=C:\CDROM\setup.exe
+File2=C:\CDROM\Setup.Lst
+File3=C:\CDROM\Graf2Tex.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
