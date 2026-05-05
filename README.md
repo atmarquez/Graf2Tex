@@ -1,5 +1,17 @@
 # Conversor Gráfico a Texto (ASCII Art) – VB6
 
+https://img.shields.io/badge/license-GPL--3.0-blue.svg
+https://img.shields.io/badge/Visual%20Basic-6.0-blueviolet
+https://img.shields.io/badge/era-Windows%20XP-lightgrey
+https://img.shields.io/badge/status-legacy%20software-orange
+https://img.shields.io/badge/purpose-software%20preservation-yellow
+https://img.shields.io/badge/maintenance-none-red
+https://img.shields.io/badge/software-historical%20artifact-brown
+https://img.shields.io/badge/output-ASCII%20Art-green
+https://img.shields.io/badge/category-image%20processing-brightgreen
+https://img.shields.io/badge/input-JPG-green
+https://img.shields.io/github/repo-archived/atmarquez/Graf2Tex
+
 Programa clásico escrito en **Visual Basic 6**, originalmente desarrollado para **Windows XP**, que convierte imágenes JPG en gráficos de texto (ASCII Art).
 
 Este proyecto se publica en GitHub con fines **educativos, históricos y de preservación**, por si a alguien le resulta útil como referencia o base para otros desarrollos.
