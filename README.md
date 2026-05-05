@@ -1,6 +1,5 @@
 # Conversor Gráfico a Texto (ASCII Art) – VB6
 
-![Archived](https://img.shields.io/github/repo-archived/atmarquez/Graf2Tex)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![Language](https://img.shields.io/badge/Visual%20Basic-6.0-blueviolet)
 ![Platform](https://img.shields.io/badge/era-Windows%20XP-lightgrey)
