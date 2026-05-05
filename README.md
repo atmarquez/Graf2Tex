@@ -2,12 +2,15 @@
 
 ![Archived](https://img.shields.io/github/repo-archived/atmarquez/Graf2Tex)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Language](https://img.shields.io/badge/Visual%20Basic-6.0-blueviolet.io/badge/status-legacy%20software-orange)
-!Purpose
-https://img.shields.io/badge/maintenance-none-red
-![Typetput](https://img.shields.io/badge/output-ASCII%20Art-green)
-!Category
-https://img.shields.io/badge/input-JPG-green
+![Language](https://img.shields.io/badge/Visual%20Basic-6.0-blueviolet)
+![Platform](https://img.shields.io/badge/era-Windows%20XP-lightgrey)
+![Status](https://img.shields.io/badge/status-legacy%20software-orange)
+![Purpose](https://img.shields.io/badge/purpose-software%20preservation-yellow)
+![Maintenance](https://img.shields.io/badge/maintenance-none-red)
+![Artifact](https://img.shields.io/badge/software-historical%20artifact-brown)
+![Output](https://img.shields.io/badge/output-ASCII%20Art-green)
+![Category](https://img.shields.io/badge/category-image%20processing-brightgreen)
+![Input](https://img.shields.io/badge/input-JPG-green)
 
 Programa clásico escrito en **Visual Basic 6**, originalmente desarrollado para **Windows XP**, que convierte imágenes JPG en gráficos de texto (ASCII Art).
 
